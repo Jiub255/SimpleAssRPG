@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 608c720ea1cef4b498633161a70cb76f, type: 3}
+  m_Name: TestSword
+  m_EditorClassIdentifier: 
+  itemName: Test Sword
+  itemDescription: mbmsne
+  itemSprite: {fileID: 21300000, guid: 0839065e5df61d048bb23d8632e1e09f, type: 3}
+  numberHeld: 1
+  usable: 0
+  isUnique: 0
+  isKey: 0
+  isArrow: 0
+  isCoin: 0
+  isEquipment: 1
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 6fdbbeccf09524141bfca421516e748e, type: 2}
+        m_TargetAssemblyTypeName: PlayerEquipment, Assembly-CSharp
+        m_MethodName: Equip
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000}
+          m_ObjectArgumentAssemblyTypeName: EquipmentItem, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11400000}
+        m_TargetAssemblyTypeName: InventoryItem, Assembly-CSharp
+        m_MethodName: DecreaseAmount
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  equipmentType: 2
+  statName: 0
+  stat: 2

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34f01405d3a58f34f901bdc2c42be463, type: 3}
+  m_Name: FireballProjectile
+  m_EditorClassIdentifier: 
+  magicCost: 1
+  abilityDuration: 0.3
+  playerMagic: {fileID: 11400000, guid: 18b34e9663cbc6c4e8c422a26047d15e, type: 2}
+  usePlayerMagic: {fileID: 11400000, guid: f44a4f643b5c1e74cb6c2d61aeff8306, type: 2}
+  thisProjectile: {fileID: 2000465896397089887, guid: 8285dfe234cc7644789558b947047fc3, type: 3}

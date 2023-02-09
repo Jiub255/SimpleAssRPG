@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &206904357351759138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 206904357351759137}
+  - component: {fileID: 7511288915292553185}
+  m_Layer: 0
+  m_Name: Game Save Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &206904357351759137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206904357351759138}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7511288915292553185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206904357351759138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2946d40dd4eaae3428d62f09beea597d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 11400000, guid: 77a705288a48f084e8e9aea1774bb305, type: 2}
+  - {fileID: 11400000, guid: c5de672ff71b9a44b850f0b00f6dd39e, type: 2}
+  - {fileID: 11400000, guid: cb6563e69eaa1d943ba43c495ff9563b, type: 2}
+  - {fileID: 11400000, guid: f2746b9266750b64abdbf72bf29ca4b3, type: 2}
+  - {fileID: 11400000, guid: 9a30e82617a00d5438edc998e5450a07, type: 2}
+  - {fileID: 11400000, guid: 20498ef60202d8c4ebe00c4a6a0c1241, type: 2}
+  - {fileID: 11400000, guid: c4e45cf74e371af4589dab2e17ae0d55, type: 2}
+  - {fileID: 11400000, guid: 71e6b7a96b15159488825a920147fb39, type: 2}
+  - {fileID: 11400000, guid: 191e70977936e0d4f8a4e67d540d0a88, type: 2}
+  - {fileID: 11400000, guid: 36d986cf45d4bc34fa977d9892b11aa6, type: 2}
+  - {fileID: 11400000, guid: 7d7914ec230f17544bddc9fa21a0098a, type: 2}
+  - {fileID: 11400000, guid: 153b82128df89cb4698c48d39b3d1b17, type: 2}
+  - {fileID: 11400000, guid: 18b34e9663cbc6c4e8c422a26047d15e, type: 2}
+  - {fileID: 11400000, guid: e6663390eb9ac5643ab09ec17cc5fb0d, type: 2}
+  - {fileID: 11400000, guid: 03add6e2a1229894189cada9df59bc98, type: 2}
+  - {fileID: 11400000, guid: e6d54cc3e04a03b4bbd0c3419458040d, type: 2}
+  - {fileID: 11400000, guid: 841dcc3437ca80444a9cafd375761f8b, type: 2}
+  - {fileID: 11400000, guid: 4d928cb2c974cb541a8578210c0e284c, type: 2}
+  - {fileID: 11400000, guid: 2a7a4bd952ed76e4db78e783747be644, type: 2}
+  - {fileID: 11400000, guid: 00d42bc944982624ba871714c970d61e, type: 2}
+  - {fileID: 11400000, guid: df966c78d48f8c641b8b32e841a44841, type: 2}
+  - {fileID: 11400000, guid: 702753dcf026f5c4a86682142ed0491e, type: 2}
+  - {fileID: 11400000, guid: c27e56d200d9bd1449dcdd1fcff27a51, type: 2}
+  saveGameIndex: 0
+  save1Text: {fileID: 11400000, guid: df966c78d48f8c641b8b32e841a44841, type: 2}
+  save2Text: {fileID: 11400000, guid: 702753dcf026f5c4a86682142ed0491e, type: 2}
+  save3Text: {fileID: 11400000, guid: c27e56d200d9bd1449dcdd1fcff27a51, type: 2}
+  playerName: {fileID: 11400000, guid: b3ce82dab5600584d8077035e667ffed, type: 2}

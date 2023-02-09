@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: c908e7a543f1b1c4789836db9feb0087
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5485827549219594602
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_0
+  - first:
+      213: 5785965082851918105
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_1
+  - first:
+      213: -7825722859756362312
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_2
+  - first:
+      213: -3201858458910264531
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_3
+  - first:
+      213: -3144901987653962601
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_4
+  - first:
+      213: 1082714784737940259
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_5
+  - first:
+      213: -1777689402304697900
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_6
+  - first:
+      213: 3523574393471823912
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_7
+  - first:
+      213: -8184569837255506940
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_8
+  - first:
+      213: -3292399418117813578
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_9
+  - first:
+      213: 4882130799340525926
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_10
+  - first:
+      213: 335992290547726776
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_11
+  - first:
+      213: 6014652819666284719
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_12
+  - first:
+      213: -3981823924093431553
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_13
+  - first:
+      213: -4902680630913690357
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_14
+  - first:
+      213: -3898921901938715644
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_15
+  - first:
+      213: 8978828457042850226
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_16
+  - first:
+      213: 5975999594124348690
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_17
+  - first:
+      213: -4474605387437287109
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_18
+  - first:
+      213: -8830024524238318047
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_19
+  - first:
+      213: -4645157688890337180
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_20
+  - first:
+      213: -6764573130997813640
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_21
+  - first:
+      213: -6806853542433585319
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_22
+  - first:
+      213: -4372059850234085932
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_23
+  - first:
+      213: -7787135111337272731
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_24
+  - first:
+      213: 1255114234204101257
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_25
+  - first:
+      213: -6218693666296686337
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_26
+  - first:
+      213: -4396073936799650233
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_27
+  - first:
+      213: -7168530083983818967
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_28
+  - first:
+      213: -5404895241464267655
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_29
+  - first:
+      213: -4783167174844224500
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_30
+  - first:
+      213: -6274739885492393888
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_31
+  - first:
+      213: 6637771622787498076
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_32
+  - first:
+      213: 9170454169316048041
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_33
+  - first:
+      213: 4329199941650625874
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_34
+  - first:
+      213: 8330949733936641218
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_35
+  - first:
+      213: 877311144929159092
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_36
+  - first:
+      213: -5161859747552112285
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_37
+  - first:
+      213: -7752061473091435849
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_38
+  - first:
+      213: 6347012006727391598
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_39
+  - first:
+      213: 8451202879418338153
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_40
+  - first:
+      213: 3939299919208507186
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_41
+  - first:
+      213: -2815769957328148779
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_42
+  - first:
+      213: -6691358465224201695
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_43
+  - first:
+      213: -1793481431321756545
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_44
+  - first:
+      213: -3344372388795630574
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_45
+  - first:
+      213: 1129208308288623875
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_46
+  - first:
+      213: 8248259704563268495
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_47
+  - first:
+      213: -942538701045539703
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_48
+  - first:
+      213: -7047235013482787628
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_49
+  - first:
+      213: 1613234575510367164
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_50
+  - first:
+      213: -7763749489056402393
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_51
+  - first:
+      213: 392786460962477349
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_52
+  - first:
+      213: 7959189136072832543
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_53
+  - first:
+      213: -8421192951677999608
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_54
+  - first:
+      213: 4805151472473230250
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_55
+  - first:
+      213: 5496517677321141882
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_56
+  - first:
+      213: -1873081837272958695
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_57
+  - first:
+      213: -7911709182677462366
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_58
+  - first:
+      213: 2409222942692626176
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_59
+  - first:
+      213: -804274284779356665
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_60
+  - first:
+      213: -3974700530815139968
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_61
+  - first:
+      213: -281165474309588453
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_62
+  - first:
+      213: 8780478406674007976
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_63
+  - first:
+      213: -6185075848349502141
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_64
+  - first:
+      213: -2172950516282272598
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_65
+  - first:
+      213: 2703148338505456490
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_66
+  - first:
+      213: -3942940740122600890
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_67
+  - first:
+      213: 5397259240069907936
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_68
+  - first:
+      213: -500105355630908021
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_69
+  - first:
+      213: 4932811684570259485
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_70
+  - first:
+      213: -7646490502971631178
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_71
+  - first:
+      213: 6726056359495605898
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_72
+  - first:
+      213: 6101015407342805357
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_73
+  - first:
+      213: 4947284160909213765
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_74
+  - first:
+      213: 5043363535031078940
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_75
+  - first:
+      213: -1533315694124570918
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_76
+  - first:
+      213: -2818064679861153600
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_77
+  - first:
+      213: -8507000417137826171
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_78
+  - first:
+      213: -183800734951494386
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_79
+  - first:
+      213: 7562339317913948045
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_80
+  - first:
+      213: -8268901419108114016
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_81
+  - first:
+      213: 8013624279587792436
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_82
+  - first:
+      213: -6049547357478763652
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_83
+  - first:
+      213: -4536515258930294991
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_84
+  - first:
+      213: -8575158772995953815
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_85
+  - first:
+      213: 7092209813788464057
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_86
+  - first:
+      213: 1704864659469230382
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_87
+  - first:
+      213: 7785073530661183374
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_88
+  - first:
+      213: 4056213372301030522
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_89
+  - first:
+      213: 5671195081373845210
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_90
+  - first:
+      213: -2554271450393678114
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_91
+  - first:
+      213: 7240559343124629615
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_92
+  - first:
+      213: -2274978043688824841
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_93
+  - first:
+      213: 5995035117320302
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_94
+  - first:
+      213: -7624856259519075316
+    second: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ed6bdb8ec6ed3b0800000000000000
+      internalID: -5485827549219594602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c3366690eb4050800000000000000
+      internalID: 5785965082851918105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b561918582756390800000000000000
+      internalID: -7825722859756362312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23f29f12b6b093d0800000000000000
+      internalID: -3201858458910264531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794377cfd401b54d0800000000000000
+      internalID: -3144901987653962601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235e593c53960f00800000000000000
+      internalID: 1082714784737940259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e6ae38e06457e0800000000000000
+      internalID: -1777689402304697900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820fc8efd3046e030800000000000000
+      internalID: 3523574393471823912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4044203c8119a6e80800000000000000
+      internalID: -8184569837255506940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba82605c2c0f42d0800000000000000
+      internalID: -3292399418117813578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6699fa96810d0c340800000000000000
+      internalID: 4882130799340525926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9fd55453fa9a400800000000000000
+      internalID: 335992290547726776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0b28b5fd6587350800000000000000
+      internalID: 6014652819666284719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff05246dc38bdb8c0800000000000000
+      internalID: -3981823924093431553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05933311fd26fbb0800000000000000
+      internalID: -4902680630913690357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d3f3003f34e9c0800000000000000
+      internalID: -3898921901938715644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b13539e8e43b9c70800000000000000
+      internalID: 8978828457042850226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d09a9f7f30fe250800000000000000
+      internalID: 5975999594124348690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3950cb8b1207e1c0800000000000000
+      internalID: -4474605387437287109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12699ca8a73757580800000000000000
+      internalID: -8830024524238318047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468540c61b5198fb0800000000000000
+      internalID: -4645157688890337180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e29bdd3986f12a0800000000000000
+      internalID: -6764573130997813640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957032574c23981a0800000000000000
+      internalID: -6806853542433585319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbc0afab25353c0800000000000000
+      internalID: -4372059850234085932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a15cecfd98ee390800000000000000
+      internalID: -7787135111337272731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a95420fbf0b6110800000000000000
+      internalID: 1255114234204101257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81a6dfe03c2b9a0800000000000000
+      internalID: -6218693666296686337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e24bebb020ef2c0800000000000000
+      internalID: -4396073936799650233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f717e7ed3448c90800000000000000
+      internalID: -7168530083983818967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb25c0a64fdf4b0800000000000000
+      internalID: -5404895241464267655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce91afbc6ce9db0800000000000000
+      internalID: -4783167174844224500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682043b155abe8a0800000000000000
+      internalID: -6274739885492393888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ca6c5f1a1e1c50800000000000000
+      internalID: 6637771622787498076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac3517da7ff34f70800000000000000
+      internalID: 9170454169316048041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2553abbe868641c30800000000000000
+      internalID: 4329199941650625874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4bdecc4aa7d9370800000000000000
+      internalID: 8330949733936641218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b76efe86d5dc2c00800000000000000
+      internalID: 877311144929159092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d4c688e36d58b0800000000000000
+      internalID: -5161859747552112285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c46399252b6490800000000000000
+      internalID: -7752061473091435849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69102ecacd151850800000000000000
+      internalID: 6347012006727391598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0d701e34b84570800000000000000
+      internalID: 8451202879418338153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e52cb7643ba630800000000000000
+      internalID: 3939299919208507186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62d3474206ce8d0800000000000000
+      internalID: -2815769957328148779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a228f9de48323a0800000000000000
+      internalID: -6691358465224201695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cbec6f3264c17e0800000000000000
+      internalID: -1793481431321756545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c363918076691d0800000000000000
+      internalID: -3344372388795630574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30596fc39f0cbaf00800000000000000
+      internalID: 1129208308288623875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b79a90084b77270800000000000000
+      internalID: 8248259704563268495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c5f119b0e6be2f0800000000000000
+      internalID: -942538701045539703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcc9a4d711333e90800000000000000
+      internalID: -7047235013482787628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb6ca49c4c536610800000000000000
+      internalID: 1613234575510367164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243cab49fe914490800000000000000
+      internalID: -7763749489056402393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52550468435737500800000000000000
+      internalID: 392786460962477349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f4c38958b47e60800000000000000
+      internalID: 7959189136072832543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a53ab0a9e12b80800000000000000
+      internalID: -8421192951677999608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab46b03ec35fa240800000000000000
+      internalID: 4805151472473230250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb16aa4bd874c40800000000000000
+      internalID: 5496517677321141882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919fb163ef97106e0800000000000000
+      internalID: -1873081837272958695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a250589a66f33290800000000000000
+      internalID: -7911709182677462366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4ae370874f6120800000000000000
+      internalID: 2409222942692626176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ebeb99cc4a6d4f0800000000000000
+      internalID: -804274284779356665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff4341de607d8c0800000000000000
+      internalID: -3974700530815139968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a3ca4ad79191cf0800000000000000
+      internalID: -281165474309588453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7cac307968ad970800000000000000
+      internalID: 8780478406674007976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b74e29423a2aa0800000000000000
+      internalID: -6185075848349502141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45e7aa40128d1e0800000000000000
+      internalID: -2172950516282272598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b1ecb8713838520800000000000000
+      internalID: 2703148338505456490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9396994cd749c0800000000000000
+      internalID: -3942940740122600890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5cf05deaae6ea40800000000000000
+      internalID: 5397259240069907936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d695724d44f09f0800000000000000
+      internalID: -500105355630908021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e4ba871ed47440800000000000000
+      internalID: 4932811684570259485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b95aff766532e590800000000000000
+      internalID: -7646490502971631178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e1efe6f90c75d50800000000000000
+      internalID: 6726056359495605898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616adb30392ba450800000000000000
+      internalID: 6101015407342805357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54009e58bb848a440800000000000000
+      internalID: 4947284160909213765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109faa0a60adf540800000000000000
+      internalID: 5043363535031078940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66c23008198bae0800000000000000
+      internalID: -1533315694124570918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c01dcaba1934e8d0800000000000000
+      internalID: -2818064679861153600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866660513011f980800000000000000
+      internalID: -8507000417137826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da2c39432037df0800000000000000
+      internalID: -183800734951494386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f0b3bea83d2f860800000000000000
+      internalID: 7562339317913948045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1665748f5fe3d80800000000000000
+      internalID: -8268901419108114016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a64403dc163f60800000000000000
+      internalID: 8013624279587792436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734391fab0bb0ca0800000000000000
+      internalID: -6049547357478763652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0251586f0b01c0800000000000000
+      internalID: -4536515258930294991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b6003778aeef880800000000000000
+      internalID: -8575158772995953815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3966fdf379c6260800000000000000
+      internalID: 7092209813788464057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e7c10065e8a710800000000000000
+      internalID: 1704864659469230382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f1b5901232a0c60800000000000000
+      internalID: 7785073530661183374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74313542909a4830800000000000000
+      internalID: 4056213372301030522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60b3511e124be40800000000000000
+      internalID: 5671195081373845210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeec5326a76d8cd0800000000000000
+      internalID: -2554271450393678114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6844164c52ab7460800000000000000
+      internalID: 7240559343124629615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff4d1ac587ad60e0800000000000000
+      internalID: -2274978043688824841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e687592e37c451000800000000000000
+      internalID: 5995035117320302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite_dump_1_by_palinor_d3recs3_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca3f351a11f2690800000000000000
+      internalID: -7624856259519075316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

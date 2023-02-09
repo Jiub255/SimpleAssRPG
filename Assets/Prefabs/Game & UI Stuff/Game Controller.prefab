@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &790437395680873903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 790437395680873889}
+  - component: {fileID: 790437395680873902}
+  m_Layer: 0
+  m_Name: Game Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &790437395680873889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 790437395680873903}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.0026245, y: 0.15319824, z: -10.490815}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &790437395680873902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 790437395680873903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29e34e50ff4b98c428c8f2d5a43c3a07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjects: []
+  itemsToPool:
+  - objectToPool: {fileID: 178054089967256352, guid: fcc750ca5fd533441b64540b3075ab96, type: 3}
+    amountToPool: 5
+    shouldExpand: 1
+  - objectToPool: {fileID: 6593608946779866645, guid: 7caa091fd9c205748a2269cebd6092a4, type: 3}
+    amountToPool: 3
+    shouldExpand: 1
+  - objectToPool: {fileID: 2000465896397089887, guid: 8285dfe234cc7644789558b947047fc3, type: 3}
+    amountToPool: 3
+    shouldExpand: 1
+  - objectToPool: {fileID: 4779942365282362987, guid: 22baca62368edca47acb7bd2c0cf5bb4, type: 3}
+    amountToPool: 3
+    shouldExpand: 1
+  - objectToPool: {fileID: 490354945024940323, guid: c89b7e79cb6996e4f8448764ae1e9a5b, type: 3}
+    amountToPool: 7
+    shouldExpand: 1
